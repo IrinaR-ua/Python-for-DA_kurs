@@ -3,3 +3,5 @@
 My_first_script.py - ознайомлення з PyCharm
 .....
 
+ДЗ до Модулю 1:
+   - Romanova_hw_1.1.1_1.1.2 Cинтаксис Python  - робота з типами даних та коментарями у Notebook.
