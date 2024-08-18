@@ -8,4 +8,5 @@ My_first_script.py - ознайомлення з PyCharm
    - Romanova_hw_1.1.3 Основи роботи з рядками та математичні операції - методи роботи з рядками, оперції, пробільні символи та інше.
    - Romanova_hw_1.2.1 Списки - робота зі списками, основні методи списків, операції над списками.
    - Romanova_hw_1.2.3 Словники, набори, кортежі - робота зі словниками, наборам, кортежами, методи, функції та перетворення типів.
-   - hw_1.2.4 If...else_Romanova - ознайомлення з основними Cjntrol Flow (if / else / elif / for / break / continue / while / list comprehension..)
+   - hw_1.2.4 If...else_Romanova - ознайомлення з основними Cоntrol Flow (if / else / elif / for / break / continue / while / list comprehension..).
+   - hw_1.3.1-1.3.2 Цикл for_Romanova - більш детальна робота з Cоntrol Flow, більше прикладів задач.
