@@ -12,3 +12,5 @@ My_first_script.py - ознайомлення з PyCharm
    - hw_1.3.1-1.3.2 Цикл for_Romanova - більш детальна робота з Cоntrol Flow, більше прикладів задач.
    - hw_1.3.3 Comprehensions_Romanova - вирішення задач за допомогою циклу та List Comprehension (порівняння цих двох методів)
    - hw_1.3.4 Цикл while_Romanova - вирішення задач за допомогою циклу while
+ДЗ до Модулю 2:
+   - hw_2.1 Функціїї. Основи_Romanova - робота з функціями, з використанням циклів та typing.
